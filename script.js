@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', function () {
             { src: 'images/1-6.jpg', label: 'Running' },
             { src: 'images/1-7.jpg', label: 'Sleeping' },
             { src: 'images/1-8.jpg', label: 'Eating' },
-            { src: 'images/1-9.jpg', label: 'Painting' }
+            { src: 'images/1-9.jpg', label: 'Potty' }
         ],
         '2': [
             { src: 'images/2-1.jpg', label: 'Apple' },
