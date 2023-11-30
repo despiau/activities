@@ -12,8 +12,8 @@ document.addEventListener('DOMContentLoaded', function () {
             { src: 'images/1-4.jpg', label: 'Singing' },
             { src: 'images/1-5.jpg', label: 'Dancing' },
             { src: 'images/1-6.jpg', label: 'Running' },
-            { src: 'images/1-7.jpg', label: 'Jumping' },
-            { src: 'images/1-8.jpg', label: 'Swimming' },
+            { src: 'images/1-7.jpg', label: 'Sleeping' },
+            { src: 'images/1-8.jpg', label: 'Eating' },
             { src: 'images/1-9.jpg', label: 'Painting' }
         ],
         '2': [
@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', function () {
             { src: 'images/2-3.jpg', label: 'Pizza' },
             { src: 'images/2-4.jpg', label: 'Leaves' },
             { src: 'images/2-5.jpg', label: 'Candy' },
-            { src: 'images/2-6.jpg', label: 'Chicken Nuggets' },
+            { src: 'images/2-6.jpg', label: 'Crackers' },
             { src: 'images/2-7.jpg', label: 'Apple Juice' },
             { src: 'images/2-8.jpg', label: 'Water' },
             { src: 'images/2-9.jpg', label: 'Watermelon' }
